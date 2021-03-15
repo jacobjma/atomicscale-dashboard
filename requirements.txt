@@ -1,0 +1,17 @@
+bqplot
+matplotlib
+tqdm
+docutils
+readme-renderer
+twine
+bqplot-image-gl
+scipy
+numpy
+traitlets
+traittypes
+ipywidgets
+jupyter
+shapely
+scikit-image
+numba
+voila
