@@ -5,7 +5,7 @@ from bqplot_image_gl.interacts import MouseInteraction
 from matplotlib.colors import rgb2hex
 from traitlets import HasTraits, observe, Any, link, Dict, Int, validate
 
-from atomscale_dashboard.utils import get_colors_from_cmap
+from atomicscale_dashboard.utils import get_colors_from_cmap
 
 
 class TimeLine(HasTraits):

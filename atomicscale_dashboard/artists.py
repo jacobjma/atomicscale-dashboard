@@ -6,8 +6,8 @@ from traitlets import HasTraits, observe, Any, Bool, List
 from traitlets import validate, link
 from traittypes import Array
 from matplotlib.colors import rgb2hex
-from atomscale_dashboard.utils import get_colors_from_cmap
-from atomscale_dashboard.extensions import link
+from atomicscale_dashboard.utils import get_colors_from_cmap
+from atomicscale_dashboard.extensions import link
 import contextlib
 
 

@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='atomscale-dashboard',
+    name='atomicscale-dashboard',
     version='0.1',
-    description='atomscale-dashboard',
+    description='atomicscale-dashboard',
     author='Jacob Madsen',
     author_email='jacob.madsen@univie.ac.at',
     packages=find_packages(),

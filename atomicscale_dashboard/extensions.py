@@ -14,8 +14,8 @@ from traitlets import TraitError
 from traitlets.traitlets import _validate_link
 from traittypes import Array
 
-from atomscale_dashboard.graph import stable_delaunay_faces, faces_to_edges, faces_to_adjacency
-from atomscale_dashboard.utils import insert_folder_in_path
+from atomicscale_dashboard.graph import stable_delaunay_faces, faces_to_edges, faces_to_adjacency
+from atomicscale_dashboard.utils import insert_folder_in_path
 
 
 class link(object):
